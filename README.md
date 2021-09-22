@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Zuzana</h1>
 - 🌱 I’m currently learning **JavaScript**
 
